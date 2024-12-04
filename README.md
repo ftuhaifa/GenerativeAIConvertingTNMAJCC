@@ -4,7 +4,7 @@ https://cloud.google.com/sdk/docs/install
 
 ** Generate API key for Geminin **
 
-https://console.cloud.google.com/apis/credentials?project=generativeajcc
+https://console.cloud.google.com/apis/credentials?
 
 **Getting the API key for Chat GPT**
 
