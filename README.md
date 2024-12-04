@@ -1,3 +1,7 @@
+**Install the gcloud CLI**
+
+https://cloud.google.com/sdk/docs/install
+
 **Getting the API key for Chat GPT**
 
 https://platform.openai.com/api-keys
